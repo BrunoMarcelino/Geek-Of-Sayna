@@ -1,0 +1,17 @@
+{
+  "name": "back_geekofsayna",
+  "version": "1.0.0",
+  "description": "backend développement",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "mongodb",
+    "express"
+  ],
+  "author": "Geek Of Sayna",
+  "license": "ISC"
+}
